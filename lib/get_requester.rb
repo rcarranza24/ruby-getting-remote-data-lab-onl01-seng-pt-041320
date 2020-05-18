@@ -1,1 +1,3 @@
 class GetRequester
+  
+  URL = 
